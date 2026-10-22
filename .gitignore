@@ -1,0 +1,21 @@
+# Python build products / virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+.mypy_cache/
+.ruff_cache/
+
+# Credentials and editor-specific clutter
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
+
+# Do NOT ignore .claude/ or ai/; authentic AI artifacts must be committed.

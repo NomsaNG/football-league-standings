@@ -1,0 +1,113 @@
+# Data transcribed from BDFutbol, historical English First Division 1974/75.
+# Format: round|date(YYYY-MM-DD)|home|home goals|away goals|away
+# https://www.bdfutbol.com/en/t/teng1974-75.html
+1|1974-08-17|Birmingham|0|3|Middlesbrough
+1|1974-08-17|Stoke City|3|0|Leeds
+1|1974-08-17|Sheffield United|1|1|Queens Park Rangers
+1|1974-08-17|Newcastle|3|2|Coventry
+1|1974-08-17|Manchester City|4|0|West Ham
+1|1974-08-17|Luton|1|2|Liverpool
+1|1974-08-17|Leicester|0|1|Arsenal
+1|1974-08-17|Everton|0|0|Derby County
+1|1974-08-17|Chelsea|0|2|Carlisle
+1|1974-08-17|Burnley|1|2|Wolverhampton
+1|1974-08-17|Tottenham|0|1|Ipswich Town
+2|1974-08-19|West Ham|2|0|Luton
+2|1974-08-20|Wolverhampton|0|0|Liverpool
+2|1974-08-20|Middlesbrough|0|2|Carlisle
+2|1974-08-20|Everton|2|1|Stoke City
+2|1974-08-20|Birmingham|3|4|Leicester
+2|1974-08-20|Arsenal|0|1|Ipswich Town
+2|1974-08-21|Leeds|0|1|Queens Park Rangers
+2|1974-08-21|Chelsea|3|3|Burnley
+2|1974-08-21|Derby County|1|1|Coventry
+2|1974-08-21|Manchester City|1|0|Tottenham
+2|1974-08-21|Newcastle|2|2|Sheffield United
+3|1974-08-24|Leeds|1|0|Birmingham
+3|1974-08-24|Arsenal|4|0|Manchester City
+3|1974-08-24|West Ham|2|3|Everton
+3|1974-08-24|Queens Park Rangers|0|1|Stoke City
+3|1974-08-24|Middlesbrough|1|1|Luton
+3|1974-08-24|Liverpool|2|1|Leicester
+3|1974-08-24|Ipswich Town|2|0|Burnley
+3|1974-08-24|Derby County|2|0|Sheffield United
+3|1974-08-24|Coventry|1|3|Chelsea
+3|1974-08-24|Carlisle|1|0|Tottenham
+3|1974-08-24|Wolverhampton|4|2|Newcastle
+4|1974-08-27|Queens Park Rangers|1|1|Leeds
+4|1974-08-27|Burnley|1|2|Chelsea
+4|1974-08-27|Sheffield United|2|1|Newcastle
+4|1974-08-27|Liverpool|2|0|Wolverhampton
+4|1974-08-27|Ipswich Town|3|0|Arsenal
+4|1974-08-27|Coventry|1|1|Derby County
+4|1974-08-27|Carlisle|0|1|Middlesbrough
+4|1974-08-28|Leicester|1|1|Birmingham
+4|1974-08-28|Luton|0|0|West Ham
+4|1974-08-28|Stoke City|1|1|Everton
+4|1974-08-28|Tottenham|1|2|Manchester City
+5|1974-08-31|Manchester City|2|1|Leeds
+5|1974-08-31|Birmingham|1|1|Wolverhampton
+5|1974-08-31|Stoke City|1|1|Middlesbrough
+5|1974-08-31|Sheffield United|3|1|Ipswich Town
+5|1974-08-31|Newcastle|2|0|West Ham
+5|1974-08-31|Luton|1|1|Queens Park Rangers
+5|1974-08-31|Leicester|1|1|Carlisle
+5|1974-08-31|Everton|2|1|Arsenal
+5|1974-08-31|Chelsea|0|3|Liverpool
+5|1974-08-31|Burnley|3|0|Coventry
+5|1974-08-31|Tottenham|2|0|Derby County
+6|1974-09-07|Leeds|1|1|Luton
+6|1974-09-07|Arsenal|0|1|Burnley
+6|1974-09-07|West Ham|1|2|Sheffield United
+6|1974-09-07|Queens Park Rangers|0|1|Birmingham
+6|1974-09-07|Middlesbrough|1|1|Chelsea
+6|1974-09-07|Liverpool|5|2|Tottenham
+6|1974-09-07|Ipswich Town|1|0|Everton
+6|1974-09-07|Derby County|2|2|Newcastle
+6|1974-09-07|Coventry|2|2|Manchester City
+6|1974-09-07|Carlisle|0|2|Stoke City
+6|1974-09-07|Wolverhampton|1|1|Leicester
+7|1974-09-14|Burnley|2|1|Leeds
+7|1974-09-14|Birmingham|3|2|Derby County
+7|1974-09-14|Stoke City|2|0|Coventry
+7|1974-09-14|Sheffield United|1|0|Middlesbrough
+7|1974-09-14|Newcastle|1|0|Carlisle
+7|1974-09-14|Manchester City|2|0|Liverpool
+7|1974-09-14|Luton|1|4|Ipswich Town
+7|1974-09-14|Leicester|3|1|Queens Park Rangers
+7|1974-09-14|Everton|0|0|Wolverhampton
+7|1974-09-14|Chelsea|0|0|Arsenal
+7|1974-09-14|Tottenham|2|1|West Ham
+8|1974-09-21|Leeds|5|1|Sheffield United
+8|1974-09-21|Arsenal|2|2|Luton
+8|1974-09-21|West Ham|6|2|Leicester
+8|1974-09-21|Queens Park Rangers|1|2|Newcastle
+8|1974-09-21|Middlesbrough|3|0|Manchester City
+8|1974-09-21|Liverpool|3|0|Stoke City
+8|1974-09-21|Ipswich Town|2|0|Chelsea
+8|1974-09-21|Derby County|3|2|Burnley
+8|1974-09-21|Coventry|1|1|Everton
+8|1974-09-21|Carlisle|1|0|Birmingham
+8|1974-09-21|Wolverhampton|2|3|Tottenham
+9|1974-09-24|Carlisle|0|0|Manchester City
+9|1974-09-24|Wolverhampton|1|1|Sheffield United
+9|1974-09-24|Queens Park Rangers|2|2|Everton
+9|1974-09-24|Liverpool|0|1|Burnley
+9|1974-09-24|Ipswich Town|3|1|Stoke City
+9|1974-09-24|Coventry|2|1|Luton
+9|1974-09-25|Derby County|4|1|Chelsea
+9|1974-09-25|West Ham|3|0|Birmingham
+9|1974-12-04|Leeds|2|1|Tottenham
+9|1974-12-10|Middlesbrough|3|0|Leicester
+9|1975-04-23|Newcastle|3|1|Arsenal
+10|1974-09-28|Everton|3|2|Leeds
+10|1974-09-28|Leicester|0|1|Coventry
+10|1974-09-28|Newcastle|1|0|Ipswich Town
+10|1974-09-28|Tottenham|1|2|Middlesbrough
+10|1974-09-28|Birmingham|3|1|Arsenal
+10|1974-09-28|Stoke City|1|1|Derby County
+10|1974-09-28|Sheffield United|1|0|Liverpool
+10|1974-09-28|Manchester City|1|0|Queens Park Rangers
+10|1974-09-28|Luton|3|1|Carlisle
+10|1974-09-28|Chelsea|0|1|Wolverhampton
+10|1974-09-28|Burnley|3|5|West Ham

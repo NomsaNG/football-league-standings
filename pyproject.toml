@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "historical-football-standings"
+version = "1.0.0"
+description = "Offline historical football league standings calculator"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+football-standings = "football_standings.cli:main"
+
+[tool.setuptools]
+packages = ["football_standings"]

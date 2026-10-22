@@ -1,0 +1,21 @@
+name: Python tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run automated unit and integration tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Rebuild and verify historical data files are current
+        run: |
+          python3 scripts/prepare_historical_data.py
+          python3 -m football_standings --input data/1974_75_week10_matches.csv --as-of 1974-09-28 --output data/1974_75_week10_standings.csv
+          git diff --exit-code -- data/1974_75_week10_matches.csv data/1974_75_week10_standings.csv
